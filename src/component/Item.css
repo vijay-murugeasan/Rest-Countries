@@ -1,0 +1,14 @@
+.ant-card .ant-card-body {
+  padding: 25px 10px;
+  height: 25%;
+}
+
+.ant-card .ant-card-body h2 {
+  font-size: 14px;
+  margin: 0;
+  margin-bottom: 5px;
+}
+
+.ant-card .ant-card-body p {
+  margin: 0;
+}
