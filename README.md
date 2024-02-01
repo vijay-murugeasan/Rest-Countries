@@ -2,9 +2,6 @@
 
 ## Overview
 
-### Screenshot
-
-![](screenshot.png)
 
 ### Links
 
